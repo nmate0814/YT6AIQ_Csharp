@@ -1,0 +1,15 @@
+C:\Users\Máté\Documents\YT6AIQ_Beadando\bin\Debug\net7.0\YT6AIQ_Beadando.exe
+C:\Users\Máté\Documents\YT6AIQ_Beadando\bin\Debug\net7.0\YT6AIQ_Beadando.deps.json
+C:\Users\Máté\Documents\YT6AIQ_Beadando\bin\Debug\net7.0\YT6AIQ_Beadando.runtimeconfig.json
+C:\Users\Máté\Documents\YT6AIQ_Beadando\bin\Debug\net7.0\YT6AIQ_Beadando.dll
+C:\Users\Máté\Documents\YT6AIQ_Beadando\bin\Debug\net7.0\YT6AIQ_Beadando.pdb
+C:\Users\Máté\Documents\YT6AIQ_Beadando\obj\Debug\net7.0\YT6AIQ_Beadando.csproj.AssemblyReference.cache
+C:\Users\Máté\Documents\YT6AIQ_Beadando\obj\Debug\net7.0\YT6AIQ_Beadando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Máté\Documents\YT6AIQ_Beadando\obj\Debug\net7.0\YT6AIQ_Beadando.AssemblyInfoInputs.cache
+C:\Users\Máté\Documents\YT6AIQ_Beadando\obj\Debug\net7.0\YT6AIQ_Beadando.AssemblyInfo.cs
+C:\Users\Máté\Documents\YT6AIQ_Beadando\obj\Debug\net7.0\YT6AIQ_Beadando.csproj.CoreCompileInputs.cache
+C:\Users\Máté\Documents\YT6AIQ_Beadando\obj\Debug\net7.0\YT6AIQ_Beadando.dll
+C:\Users\Máté\Documents\YT6AIQ_Beadando\obj\Debug\net7.0\refint\YT6AIQ_Beadando.dll
+C:\Users\Máté\Documents\YT6AIQ_Beadando\obj\Debug\net7.0\YT6AIQ_Beadando.pdb
+C:\Users\Máté\Documents\YT6AIQ_Beadando\obj\Debug\net7.0\YT6AIQ_Beadando.genruntimeconfig.cache
+C:\Users\Máté\Documents\YT6AIQ_Beadando\obj\Debug\net7.0\ref\YT6AIQ_Beadando.dll
